@@ -17,7 +17,7 @@ JavaScript (Web Speech API) – Core functionality for speech synthesis
 
 # How It Works:
 1. Type your text into the input box.
-2. Click the “Speak” button.
+2. Click the “Listen” button.
 3. The browser will read the text out loud using its built-in voice engine.
 
 # Setup:
