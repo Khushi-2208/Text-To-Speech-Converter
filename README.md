@@ -22,9 +22,9 @@ JavaScript (Web Speech API) – Core functionality for speech synthesis
 
 # Setup:
 
-Clone the repository or download the ZIP
-Open index.html in a browser
-Enjoy listening Your Text.
+1. Clone the repository or download the ZIP
+2. Open index.html in a browser
+3. Enjoy listening Your Text.
 
 This project is open Source.
 
